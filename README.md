@@ -51,17 +51,17 @@ Variables and attributes for the bot include the following:
 
 Columns in the Dataset:
 
-product_id: Unique ID for each product. 
-product_name: Name of the skincare product.
-product_type: Category (e.g., Moisturizer, Cleanser).
-main_ingredients: Key ingredients in the product.
-ingredient_benefits: Benefits of the ingredients.
-suitability: Suitable skin types (e.g., Oily, Dry).
-directions_for_use: Instructions on how to use the product.
-skin_concerns: Common skin issues the product addresses.
-allergens_ingredients_to_avoid: Allergens or irritants to avoid.
-prices: Product cost.
-Attributes: alcohol_free, cruelty_free, fragrance_free.
+product_id: Unique ID for each product. </br>
+product_name: Name of the skincare product. </br>
+product_type: Category (e.g., Moisturizer, Cleanser).</br>
+main_ingredients: Key ingredients in the product.</br>
+ingredient_benefits: Benefits of the ingredients.</br>
+suitability: Suitable skin types (e.g., Oily, Dry).</br>
+directions_for_use: Instructions on how to use the product.</br>
+skin_concerns: Common skin issues the product addresses.</br>
+allergens_ingredients_to_avoid: Allergens or irritants to avoid.</br>
+prices: Product cost.</br>
+Attributes: alcohol_free, cruelty_free, fragrance_free.</br>
 
 
 
