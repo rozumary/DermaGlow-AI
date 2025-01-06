@@ -18,7 +18,11 @@ https://github.com/user-attachments/assets/b5eb50be-7130-47bc-8325-5ae87ecafaaf
 
 # Topic Title: Dermatology Essentials and Product Ingredient Analyzer Bot
 
-The Dermatology Essentials and Product Ingredient Analyzer Bot is a tool designed to help individuals make informed decisions about skincare products. With the overwhelming number of skincare options available, choosing the right products can be challenging. This bot is specifically designed to analyze skincare product ingredients, providing insights into their benefits, potential allergens, and whether they are fragrance-free or alcohol-free. Additionally, it identifies users’ skin types and recommends suitable ingredients and products based on their skin conditions, sensitivities, and budget. By offering detailed ingredient analysis and personalized recommendations, this bot empowers users to create effective and safe skincare routines tailored to their unique needs.
+The Dermatology Essentials and Product Ingredient Analyzer Bot is a tool designed for individuals to help them in developing smart choices about cosmetic essentials and skincare decisions. With the increase of beauty influencers, finding the right products for our skin can be demanding. This proposed bot is designed to analyze the cosmetic product ingredients in terms of what benefits are associated with those ingredients and what side effects or allergic reactions they can cause. It also identifies users’ skin types and suggests appropriate ingredients and products based on their skin conditions, allergies, and spending limits. 
+
+Objectives: 
+
+(1) To analyze cosmetic ingredients and explain their benefits, possible irritants, and allergens. (2) To identify and warn users of common allergens in products to avoid any allergic reactions. (3) To determine users’ skin types and recommend proper ingredients based on their skin needs and sensitivities. (4) To guide users in effective skincare routines with compatible product layering. (5) To compare similar products and suggest the best options based on users’ skin concerns, allergic reactions, and budget.
 
 # Objectives: 
 
