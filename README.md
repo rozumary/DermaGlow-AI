@@ -18,7 +18,7 @@ The Dermatology Essentials and Product Ingredient Analyzer Bot is a tool designe
 
 **Objectives:**
 
-(1) To analyze cosmetic ingredients and explain their benefits, possible irritants, and allergens. (2) To identify and warn users of common allergens in products to avoid any allergic reactions. (3) To determine users’ skin types and recommend proper ingredients based on their skin needs and sensitivities. (4) To guide users in effective skincare routines with compatible product layering. 
+(1) To analyze cosmetic ingredients and explain their benefits, possible irritants and allergens. </br>(2) To identify and warn users of common allergens in products to avoid any allergic reactions.</br> (3) To determine users’ skin types and recommend proper ingredients based on their skin needs and sensitivities. </br>(4) To guide users in effective skincare routines. 
 
 # SCREENSHOTS:
 
