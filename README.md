@@ -4,6 +4,7 @@ Chatbot Project in Basic Machine Learning
 Chatbot: DermaGlow AI
 
 
+# Chatbot Process and Functions
 
 https://github.com/user-attachments/assets/b5eb50be-7130-47bc-8325-5ae87ecafaaf
 
