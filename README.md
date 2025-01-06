@@ -3,6 +3,12 @@ Chatbot Project in Basic Machine Learning
 
 Chatbot: DermaGlow AI
 
+
+
+https://github.com/user-attachments/assets/b5eb50be-7130-47bc-8325-5ae87ecafaaf
+
+
+
 Topic Title: Dermatology Essentials and Product Ingredient Analyzer Bot
 
 The Dermatology Essentials and Product Ingredient Analyzer Bot is a tool designed to help individuals make informed decisions about skincare products. With the overwhelming number of skincare options available, choosing the right products can be challenging. This bot is specifically designed to analyze skincare product ingredients, providing insights into their benefits, potential allergens, and whether they are fragrance-free or alcohol-free. Additionally, it identifies users’ skin types and recommends suitable ingredients and products based on their skin conditions, sensitivities, and budget. By offering detailed ingredient analysis and personalized recommendations, this bot empowers users to create effective and safe skincare routines tailored to their unique needs.
