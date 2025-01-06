@@ -4,9 +4,12 @@ Chatbot Project in Basic Machine Learning
 # Chatbot: DermaGlow AI
 
 
+**Topic Title: Dermatology Essentials and Product Ingredient Analyzer Bot**
+
+The Dermatology Essentials and Product Ingredient Analyzer Bot is a tool designed for individuals to help them in developing smart choices about cosmetic essentials and skincare decisions. With the increase of beauty influencers, finding the right products for our skin can be demanding. This proposed bot is designed to analyze the cosmetic product ingredients in terms of what benefits are associated with those ingredients and what side effects or allergic reactions they can cause. It also identifies users’ skin types and suggests appropriate ingredients and products based on their skin conditions, allergies, and spending limits. 
+
 
 https://github.com/user-attachments/assets/3648b399-3ad0-48fe-8e6c-017e99f7c3cc
-
 
 
 
@@ -14,19 +17,9 @@ https://github.com/user-attachments/assets/3648b399-3ad0-48fe-8e6c-017e99f7c3cc
 
 https://github.com/user-attachments/assets/b5eb50be-7130-47bc-8325-5ae87ecafaaf
 
-
-
-# Topic Title: Dermatology Essentials and Product Ingredient Analyzer Bot
-
-The Dermatology Essentials and Product Ingredient Analyzer Bot is a tool designed for individuals to help them in developing smart choices about cosmetic essentials and skincare decisions. With the increase of beauty influencers, finding the right products for our skin can be demanding. This proposed bot is designed to analyze the cosmetic product ingredients in terms of what benefits are associated with those ingredients and what side effects or allergic reactions they can cause. It also identifies users’ skin types and suggests appropriate ingredients and products based on their skin conditions, allergies, and spending limits. 
-
 Objectives: 
 
-(1) To analyze cosmetic ingredients and explain their benefits, possible irritants, and allergens. (2) To identify and warn users of common allergens in products to avoid any allergic reactions. (3) To determine users’ skin types and recommend proper ingredients based on their skin needs and sensitivities. (4) To guide users in effective skincare routines with compatible product layering. (5) To compare similar products and suggest the best options based on users’ skin concerns, allergic reactions, and budget.
-
-# Objectives: 
-
-(1) To analyze skin care product ingredients and explain their benefits, possible allergens, and if they are fragrance-free and alcohol-free. (2) To identify and warn users of possible allergens in products to avoid any allergic reactions. (3) To determine users’ skin types and recommend proper ingredients based on their skin needs and sensitivities. (4) To guide users in effective skincare routines with compatible product layering. (5) To suggest the best options based on users’ skin concerns, allergic reactions, and budget.
+(1) To analyze cosmetic ingredients and explain their benefits, possible irritants, and allergens. (2) To identify and warn users of common allergens in products to avoid any allergic reactions. (3) To determine users’ skin types and recommend proper ingredients based on their skin needs and sensitivities. (4) To guide users in effective skincare routines with compatible product layering. 
 
 # SCREENSHOTS:
 
