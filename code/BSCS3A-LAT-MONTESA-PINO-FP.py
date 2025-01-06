@@ -8,11 +8,6 @@ Original file is located at
 
 # Dermatology Essentials and Product Ingredient Analyzer Bot
 
-The Dermatology Essentials and Product Ingredient Analyzer Bot helps individuals to make smart choices about skincare essentials. It provide users with a convenient tool to analyze skin concerns and recommend suitable skincare products based on their skin types, specific needs, and ingredient preferences to promote healthier and better skincare habits.
-
-*Installing Libraries*
-"""
-
 !pip install transformers
 !pip install neo4j
 !pip install scikit-learn
@@ -142,9 +137,6 @@ eval_labels_tensor = torch.tensor(eval_labels)
 
 """*Naive Bayes Setup*
 
-We convert the text data into numerical features with `CountVectorizer`, train the Naive Bayes model using labels like "acne" or "pores," encode the labels numerically, and split the data into training and test sets for performance evaluation..
-"""
-
 vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(intents)
 intent_model = MultinomialNB()
@@ -156,11 +148,6 @@ encoded_labels = label_encoder.fit_transform(labels)
 X_train, X_test, y_train, y_test = train_test_split(X, encoded_labels, test_size=0.2, random_state=42)
 
 """*Neural Network Setup with TensorFlow*
-
-The code sets up a neural network with two hidden layers and uses softmax for multi-class classification. After training, it checks the model’s performance, makes predictions, and calculates precision and recall.
-
-Evaluation Criteria (Accuracy, Precision and Recall)
-"""
 
 nn_model = models.Sequential()
 nn_model.add(layers.Dense(64, activation='relu', input_dim=X_train.shape[1]))
@@ -208,10 +195,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-"""## Helper Functions
-
-Here we use fuzzy matching for extracting the product name when the user query is not an exact match to a product name in your dataset. For example, if a user types a product name with a typo or slight variation (like "Hydrating Lip Sermu" instead of Hydrating Lip Serum"), fuzzy matching would help identify the closest product name in the dataset.
-"""
+"""## Functions
 
 def preprocess_input(user_input):
     return user_input.lower().translate(str.maketrans('', '', string.punctuation)).strip()
