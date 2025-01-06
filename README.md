@@ -1,7 +1,7 @@
 # Final-Project-Chatbot
 Chatbot Project in Basic Machine Learning
 
-# Chatbot: DermaGlow AI
+# DermaGlow AI: Dermatology Essentials and Product Ingredient Analyzer Bot
 
 
 https://github.com/user-attachments/assets/3648b399-3ad0-48fe-8e6c-017e99f7c3cc
