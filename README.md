@@ -62,8 +62,7 @@ prices: Product cost.</br>
 Attributes: alcohol_free, cruelty_free, fragrance_free.</br>
 
 ©
-<br/>
-MODEL TRAINING/SYSTEM DEVELOPER: Rosemarie Montesa<br/>
+MODEL TRAINING/DEVELOPER: Rosemarie Montesa<br/>
 DATASET ORGANIZER/TESTER: Betina Grace Lat<br/>
 DATASET ORGANIZER/TESTER: Renalyn N. Pino<br/>
 
